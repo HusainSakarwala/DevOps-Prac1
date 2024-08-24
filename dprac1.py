@@ -1,6 +1,4 @@
-
 print ("Husain")
 print ("Sakarwala")
-print ("Dev")
-print ("Ops")
+print ("DevOps")
 print ("Prac1")
